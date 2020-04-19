@@ -31,7 +31,8 @@ Moreh Yhemaelh Zeev
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-INFORMACIÓN INTERNACIONAL [Pagina](www.caminoayahweh.org).
+
+INFORMACIÓN INTERNACIONAL [Pagina](https://caminoayahweh.org).
 
 ### Jekyll Themes
 
