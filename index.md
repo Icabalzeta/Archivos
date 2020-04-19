@@ -7,21 +7,22 @@ Licencia para Windows
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Todas las respuestas las puede descargar en 
+estudios desde nuestra Pagina Oficial
+www.caminoayahweh.org
+TAMBIEN NOS PUEDES ENCONTRAR EN ESTOS 
+LUGARES
+INFORMACIÓN INTERNACIONAL 
+info@caminoayahweh.org
+tamildimdeyahshua@gmail.com
+DESCARGA DE LAS ESCRITURAS Y ESTUDIOS EN PDF GRATIS
+www.caminoayahweh.org
+BLOG DE ESTUDIOS DE TORAH
+https://kehilajdetamildimdeyahshua.bl
+PAGINA OFICIAL INTERNACIONAL DE LA KAJAL YISRAELITA EN FACEBOOK
+https://www.facebook.com/yahshuashilo/
+"Si la base de tu FE está errada, todo lo que hayas edificado sobre ella estará también errado"
+Moreh Yhemaelh Zeev 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
