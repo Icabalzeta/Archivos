@@ -1,4 +1,4 @@
-## Bienvenidos
+                                                    ## Bienvenidos
 
 Licencia para Windows
 
@@ -16,7 +16,7 @@ Moreh Yhemaelh Zeev
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-INFORMACIÓN INTERNACIONAL [Pagina](https://caminoayahweh.org).
+INFORMACIÓN INTERNACIONAL [Pagina](https://caminoayahweh.org)
 
 ```markdown
 Todas las respuestas las puede descargar en 
@@ -26,10 +26,6 @@ www.caminoayahweh.org
 Moreh Yhemaelh Zeev 
 ```
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Icabalzeta/Archivos/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
+### Contacto
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
