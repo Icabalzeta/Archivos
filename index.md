@@ -10,22 +10,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Todas las respuestas las puede descargar en 
 estudios desde nuestra Pagina Oficial
 www.caminoayahweh.org
-
-TAMBIEN NOS PUEDES ENCONTRAR EN ESTOS 
-LUGARES.
-INFORMACIÓN INTERNACIONAL [Pagina](www.caminoayahweh.org).
-info@caminoayahweh.org
-tamildimdeyahshua@gmail.com
-
-DESCARGA DE LAS ESCRITURAS Y ESTUDIOS EN PDF GRATIS
-www.caminoayahweh.org
-
-BLOG DE ESTUDIOS DE TORAH
-https://kehilajdetamildimdeyahshua.bl
-
-PAGINA OFICIAL INTERNACIONAL DE LA KAJAL YISRAELITA EN FACEBOOK
-https://www.facebook.com/yahshuashilo/
-
 "Si la base de tu FE está errada, todo lo que hayas edificado sobre ella estará también errado"
 Moreh Yhemaelh Zeev 
 ```
@@ -33,6 +17,14 @@ Moreh Yhemaelh Zeev
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 INFORMACIÓN INTERNACIONAL [Pagina](https://caminoayahweh.org).
+
+```markdown
+Todas las respuestas las puede descargar en 
+estudios desde nuestra Pagina Oficial
+www.caminoayahweh.org
+"Si la base de tu FE está errada, todo lo que hayas edificado sobre ella estará también errado"
+Moreh Yhemaelh Zeev 
+```
 
 ### Jekyll Themes
 
