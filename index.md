@@ -13,8 +13,8 @@ www.caminoayahweh.org
 
 TAMBIEN NOS PUEDES ENCONTRAR EN ESTOS 
 LUGARES.
-INFORMACIÓN INTERNACIONAL
-[Pagina](info@caminoayahweh.org).
+INFORMACIÓN INTERNACIONAL [Pagina](www.caminoayahweh.org).
+info@caminoayahweh.org
 tamildimdeyahshua@gmail.com
 
 DESCARGA DE LAS ESCRITURAS Y ESTUDIOS EN PDF GRATIS
@@ -31,6 +31,7 @@ Moreh Yhemaelh Zeev
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+INFORMACIÓN INTERNACIONAL [Pagina](www.caminoayahweh.org).
 
 ### Jekyll Themes
 
